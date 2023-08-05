@@ -1,0 +1,4 @@
+CompileFlags:
+  Add:
+    - "-I./vendor"
+    - "-I/opt/homebrew/include/SDL2"
